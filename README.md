@@ -1,3 +1,11 @@
+### yuanze的修改
+
+- 修改 `templates/links.html` 中标题 `友人帐` -> `中转站`
+
+以下为原README
+
+---
+
 <p align="center">
   <img alt="iEmo Logo" src="https://api.minio.yyds.pink/halo-docs/2024/05/iemo_logo.png" width="128">
 </p>
@@ -8,13 +16,12 @@
 ![ScreenShot](https://api.minio.yyds.pink/moony/files/2024/05/iemo-1.png)
 ![ScreenShot](https://api.minio.yyds.pink/halo-docs/2024/05/iemo.png)
 
-
 ### 预览：[困困鱼](https://demo.kunkunyu.com?preview-theme=theme-iemo)
 
 ### 文档：[iEmo 使用文档](https://docs.kunkunyu.com/docs/iemo)
 
-
 ### 插件支持
+
 iEmo 主题支持以下 Halo 插件：
 
 - [X] 友情链接（/links）：https://halo.run/store/apps/app-hfbQg
@@ -22,10 +29,13 @@ iEmo 主题支持以下 Halo 插件：
 - [X] 瞬间（/moments）：https://halo.run/store/apps/app-SnwWD
 
 为了获得更好的体验，你还可以安装以下插件（如果需要）：
+
 - highlight.js 代码高亮：https://halo.run/store/apps/app-sqpgf
 
 ### 使用说明
-> 1、部分功能是使用插件进行支持  
+
+> 1、部分功能是使用插件进行支持
+
 - [X] 文章目录
 - [X] [代码高亮/语言/复制](https://github.com/halo-sigs/plugin-highlightjs)（插件）
 - [x] [文章搜索](https://github.com/halo-sigs/plugin-search-widget)（插件）
@@ -36,7 +46,8 @@ iEmo 主题支持以下 Halo 插件：
 - [x] 其他功能
 
 ### TODO
-- [ ] 细节优化  
+
+- [ ] 细节优化
 - [ ] 图库（/photos）：https://halo.run/store/apps/app-BmQJW
 
 ### 🏭 贡献
@@ -55,10 +66,11 @@ iEmo 主题支持以下 Halo 插件：
 如果你对主题有什么建议或者意见，欢迎提 PR & issue。
 
 * 添加企业微信 （备注进群）
-<img width="360" src="https://api.minio.yyds.pink/kunkunyu/files/2025/02/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250212142105-pbceif.jpg" />
+  <img width="360" src="https://api.minio.yyds.pink/kunkunyu/files/2025/02/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250212142105-pbceif.jpg" />
 
 * QQ群
-<img width="360" src="https://api.minio.yyds.pink/kunkunyu/files/2025/05/qq-708998089-iqowsh.webp" />
+  <img width="360" src="https://api.minio.yyds.pink/kunkunyu/files/2025/05/qq-708998089-iqowsh.webp" />
 
 ### 赞助
+
 如果 iEmo 对你有帮助，欢迎[赞助我](https://afdian.net/a/moony_la)，感谢以下赞助者对 iEmo 项目的支持：
