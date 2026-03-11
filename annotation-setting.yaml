@@ -10,11 +10,3 @@ spec:
     - $formkit: "text"
       name: "icon"
       label: "图标"
-
-
-
-
-
-          
-
-
